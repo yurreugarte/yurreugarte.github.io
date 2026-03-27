@@ -2,3 +2,4 @@
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 # Useful .gitignore templates: https://github.com/github/gitignorenode_modules
 .apache
+node_modules
